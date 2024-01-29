@@ -1,0 +1,11 @@
+{
+  "extends": "../tsconfig.base",
+  "compilerOptions": {
+    "module": "CommonJS",
+    "removeComments": true,
+    "moduleResolution": "Node"
+  },
+  "files": [
+    "./app.ts"
+  ]
+}
